@@ -4,3 +4,8 @@ to run this cpde navigate to the tutorials-ui folder and run the commands below 
 
 yarn
 yarn dev
+
+or
+
+npm install
+npm run dev
